@@ -10,3 +10,5 @@ response['drinks'].each do |drink|
 end
 
 puts 'ingredients created!'
+
+Cocktail.create(name: "Mojito")

@@ -1,0 +1,45 @@
+.banner {
+  background-image: url('https://images.unsplash.com/photo-1503058474900-cb76710f9cd1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+  text-align: center;
+  height: 400px;
+  background-size: cover !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 32px;
+}
+
+.banner h1 {
+  font-size: 50px;
+  font-weight: bold;
+  text-shadow: 0px 1px rgba(0, 0, 0, 0.2);
+  color: #fb0091;
+  font-family: 'Lacquer', ;
+  text-shadow: 2px 0 0 #1d1919, -2px 0 0 #1d1919, 0 2px 0 #1d1919, 0 -2px 0 #1d1919, 1px 1px #1d1919, -1px -1px 0 #1d1919, 1px -1px 0 #1d1919, -1px 1px 0 #1d1919;
+}
+
+.banner p {
+  font-family: 'Lacquer', ;
+  text-shadow: 2px 0 0 #1d1919, -2px 0 0 #1d1919, 0 2px 0 #1d1919, 0 -2px 0 #1d1919, 1px 1px #1d1919, -1px -1px 0 #1d1919, 1px -1px 0 #1d1919, -1px 1px 0 #1d1919;
+  font-size: 25px;
+  font-weight: bold;
+  color: #fb0091;;
+  margin-bottom: 30px;
+}
+
+.banner a {
+  color: #fb0091;
+  font-family: 'Lacquer', ;
+}
+
+.button {
+  opacity: 0;
+  font-family: 'Lacquer', ;
+  color: #fb0091;
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+}
+
